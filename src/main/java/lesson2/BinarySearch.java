@@ -1,4 +1,4 @@
-package Lesson2;
+package lesson2;
 
 public class BinarySearch {
     public static void main(String[] args) {

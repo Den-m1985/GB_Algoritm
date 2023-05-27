@@ -1,4 +1,4 @@
-package Lesson2;
+package lesson2;
 
 public class QuickSort {
     public static void main(String[] args) {
